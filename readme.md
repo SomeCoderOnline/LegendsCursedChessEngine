@@ -8,4 +8,4 @@ If x_move_played -> play_predefined_move.
 # Detailed Explanation:
 The project uses a text file to get perfect responses to moves. This is done via an array of openings. Then, the gaps in said openings are filled with multiple .txt files. Horrible solution to this problem please improove later future me.
 # Developers:
-If you want to help develop this project, please go to [dev.md](github.com/SomeCoderOnline/LegendsCursedChessEngine/main/dev.md).
+If you want to help develop this project, please go to [dev.md](dev.md).
